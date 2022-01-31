@@ -1,4 +1,12 @@
-# Flexible XML to dict Converter
+## Original repo hasn't been updated for ~2 years, wanted to fork this for posterity in event of the worst.
+## Not sure if there's anything to add to this as it's still functional as of Python 3.9.
+## In the event it does break in 3.10 or 3.11, I may try my hand at fixing it.
+
+## Below is the original README.md contents
+
+---------------------------------------------------------------------------------------------------------
+
+# Flexible XML to dict Converter - Forked from original
 
 ```bash
 pip install python-xml2dict
